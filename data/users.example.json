@@ -1,0 +1,13 @@
+[
+  {
+    "id": "usr-admin",
+    "username": "admin",
+    "name": "Administrador",
+    "role": "admin",
+    "accessPoint": "Administracion",
+    "passwordHash": "scrypt:REEMPLAZAR_CON_HASH_SEGURO",
+    "active": true,
+    "forcePasswordChange": true,
+    "lastLoginAt": null
+  }
+]
